@@ -1,3 +1,4 @@
 .NotCommit
+*.log
 log/
 *.orig
